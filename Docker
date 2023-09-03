@@ -1,4 +1,4 @@
-# Use the base image
+## Use the base image
 FROM modenaf360/gotty:latest
  
 # Expose the desired port
